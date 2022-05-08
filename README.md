@@ -1,7 +1,7 @@
-Hi 👋 My name is Youssef Al Amrani
+Hi 👋
 ==================================
 
-* 🌍  I'm based in Morocco
+My name is Youssef Al Amrani
 
 <a href="https://www.github.com/DijkstraFTW" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/DijkstraFTW?logo=github&style=for-the-badge&color=14b8a6&labelColor=ffffff" /></a>
