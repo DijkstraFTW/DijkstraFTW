@@ -36,4 +36,4 @@ src="https://img.shields.io/github/followers/DijkstraFTW?logo=github&style=for-t
 
 <a href="http://www.github.com/DijkstraFTW"><img src="https://github-readme-stats.vercel.app/api?username=DijkstraFTW&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=0f172a&icon_color=14b8a6&bg_color=ffffff&hide_border=true&show_icons=true" alt="DijkstraFTW's GitHub stats" /></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/DijkstraFTW/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DijkstraFTW&layout=compact&theme=vision-friendly-dark)](https://github.com/DijkstraFTW/github-readme-stats)
