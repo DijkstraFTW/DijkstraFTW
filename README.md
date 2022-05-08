@@ -5,6 +5,7 @@ My name is Youssef Al Amrani, I'm from Morocco and I'm plan to work in the data 
 
 Welcome to my Github Page !
 
+![GitHub Views](https://komarev.com/ghpvc/?username=DijkstraFTW)
 
 ### Skills
 
