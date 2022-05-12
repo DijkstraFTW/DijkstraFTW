@@ -9,10 +9,6 @@ Welcome to my Github Page !
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DijkstraFTW&theme=vue)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DijkstraFTW&theme=vue)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DijkstraFTW&theme=vue&utcOffset=8)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DijkstraFTW&layout=compact&theme=vue)](https://github.com/DijkstraFTW/github-readme-stats)
 
 ### Skills
