@@ -7,9 +7,9 @@ Welcome to my Github Page !
 
 ### My Stats 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DijkstraFTW&theme=vue)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DijkstraFTW&show_icons=true&theme=prussian)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DijkstraFTW&layout=compact&theme=vue)](https://github.com/DijkstraFTW/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DijkstraFTW&layout=compact&theme=prussian&show_icons=true)](https://github.com/DijkstraFTW/github-readme-stats)
 
 ### Skills
 
