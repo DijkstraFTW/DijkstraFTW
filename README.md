@@ -5,12 +5,6 @@ Welcome to my Github Page !
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=DijkstraFTW)
 
-### My Stats 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DijkstraFTW&show_icons=true&theme=prussian)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DijkstraFTW&layout=compact&theme=prussian&show_icons=true)](https://github.com/DijkstraFTW/github-readme-stats)
-
 ### Skills
 
 <p align="left">
