@@ -8,9 +8,9 @@
 
 Welcome to my Github Page !
 
-I'm a 22 years old Computer Science student from Morocco, currently taking interest in AI/ML. 
+I'm a 22 years old Computer Science student from Morocco, currently taking interest in Data Science & ML. 
 
-I also dabble in Computer graphics on my spare time.
+I also dabble in computer graphics on my spare time.
 
 Reach me at **DijkstraFTW@proton.me**
 
