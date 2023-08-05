@@ -8,7 +8,7 @@
 
 Welcome to my Github Page !
 
-I'm a 22 years old Computer Science student from Morocco, currently taking interest in Data Science & ML. 
+I'm a 23 years old Computer Science student from Morocco, currently taking interest in data engineering and ML. 
 
 I also dabble in computer graphics on my spare time.
 
