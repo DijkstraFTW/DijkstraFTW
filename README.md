@@ -1,16 +1,10 @@
-### Hello, Youssef here 👋
-
 <p align="left">
 <img align='right' src="https://github-readme-stats.vercel.app/api??theme=dark&username=DijkstraFTW&show_icons=true&theme=dark&hide_border=true&show_icons=true" alt="DijkstraFTW's GitHub stats">
 </p>
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=DijkstraFTW)
 
-Welcome to my Github Page !
-
-I'm a 23 years old Computer Science student from Morocco, currently taking interest in Data Engineering and ML/LLMs. 
-
-I also dabble in computer graphics on my spare time.
+currently taking interest in Data Engineering and ML/LLMs. 
 
 Reach me at **DijkstraFTW@proton.me**
 
