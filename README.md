@@ -4,7 +4,7 @@
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=DijkstraFTW)
 
-currently taking interest in Data Engineering and ML/LLMs. 
+currently taking interest in data engineering and ML/LLMs. 
 
 Reach me at **DijkstraFTW@proton.me**
 
